@@ -1,2 +1,11 @@
 # ADS-Project
-This is a 1 week project done by 3 students from Department of Advanced Computing from St Joseph's University 
+
+This is a one week project of Advanced Statistical Methods Lab done by three students 
+from Department of Advanced Computing of St Joseph's University
+
+Topic Given:- Pick a sport of your choice, and do metric analysis.
+
+Sport Choosen:- Cricket(IPL)
+
+
+ 
